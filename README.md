@@ -23,7 +23,7 @@
   ## Preview
   ![Img](./public/assets/images/preview.png)
   ## Launch
-  [Click Me](https://opensource.org/licenses/MIT) 
+  [Heroku](https://note-taker-applicat.herokuapp.com/) 
   ## License
   MIT License
 
