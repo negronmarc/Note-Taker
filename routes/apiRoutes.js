@@ -12,7 +12,6 @@ function saveNotes(notes) {
   fs.writeFileSync("db/db.json", JSON.stringify(notes));
 };
 
-// initially getting all notes in the db.json
 router.get("/notes", (req, res) => {
   const notes = getNotes();
   res.json(notes);
