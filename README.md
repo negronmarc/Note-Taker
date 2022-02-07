@@ -1,7 +1,7 @@
 # Note Taker
 
   ## Description
-  The purpose of this application is to write and save notes. This application uses an Express.js back end and saves and retrieves note data from a JSON file.
+  Application that can be used to write and save notes. This application uses Express.js and saves and retrieves note data from a JSON file. 
   
   ## Table of Contents
   - [Installation](#installation)
@@ -27,7 +27,7 @@
   ## License
   MIT License
 
-    Copyright (c) [year] [fullname]
+    Copyright (c) [2022] [Marc Negron]
     
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
